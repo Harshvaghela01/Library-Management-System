@@ -1,0 +1,2 @@
+# Library Management System
+ The Library Management System is a Java-based application designed to automate and streamline the processes involved in managing a library. This system allows librarians to manage books, track student registrations, and monitor book transactions such as check-ins and check-outs, all within an easy-to-use interface. The project focuses on improving the efficiency of library operations by reducing manual work and providing quick access to essential information.
